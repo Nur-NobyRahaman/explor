@@ -1,0 +1,21 @@
+.megabox{
+    height: 400px;
+    width: 400px;
+    border: 2px solid blue;
+    overflow: scroll4;
+    overflow-x: hidden;
+}
+.mango-people{
+    height: 300px;
+    width: 400px;
+    border: 2px solid rgb(65, 192, 186);
+}
+.mini-mini{
+    width: 100px;
+    border: 2px solid black;
+}
+.short-text{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
