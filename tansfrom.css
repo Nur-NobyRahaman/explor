@@ -1,0 +1,12 @@
+.box,.inner {
+    width: 200px;
+    height: 200px;
+    border: 2px solid khaki;
+}
+.box{
+    background-color: aqua;
+}
+.inner{
+    background-color: brown;
+    transform: translate(100px ,100px) scale(.75) rotate(45deg) ;
+}
